@@ -1,0 +1,194 @@
+.driving-driving{
+    height:687px;
+    width:90%;
+    /* border:1px solid green; */
+}
+
+
+.driving-two{
+    height:110px;
+    width:100%;
+    /* border:1px solid red; */
+    background-color:green;
+}
+
+.driving-input{
+    width:210px;
+    height:50px;
+    margin-left:80%;
+    margin-top:-30px;
+    border:1px solid black;
+    border-radius:7px;
+    font-size:15px;
+    font-weight: 500;
+}
+
+.map-heading{
+    font-size:30px;
+    margin-left:250px;
+    font-weight:700;
+    padding-top:10px;
+    color:rgb(214, 218, 8);
+    width:500px;
+}
+
+@media (min-width:414px) and (max-width:896px){
+
+    .driving-two{
+      width:564px;
+    }
+
+    .map-heading{
+     color:yellow;
+     margin-left:10px;
+     font-size:17px;
+    }
+
+    .driving-input{
+        margin-top:2px;
+        margin-left:190px;
+    }
+
+    .driving-one{
+      width:564px;
+    }
+
+}
+
+@media (min-width:375px) and (max-width:667px){
+
+    .driving-two{
+        width:569px;
+      }
+  
+      .map-heading{
+       color:yellow;
+       margin-left:10px;
+       font-size:17px;
+      }
+  
+      .driving-input{
+          margin-top:2px;
+          margin-left:190px;
+      }
+  
+      .driving-one{
+        width:569px;
+      }
+
+}
+
+@media (min-width:360px) and (max-width:740px){
+
+    .driving-two{
+        width:569px;
+      }
+  
+      .map-heading{
+       color:yellow;
+       margin-left:10px;
+       font-size:17px;
+      }
+  
+      .driving-input{
+          margin-top:2px;
+          margin-left:190px;
+      }
+  
+      .driving-one{
+        width:569px;
+      }
+
+}
+
+@media (min-width:820px) and (max-width:1180px){
+
+  .driving-two{
+    width:820px;
+  }
+
+  .map-heading{
+   color:yellow;
+   margin-left:260px;
+   font-size:25px;
+  }
+
+  .driving-input{
+      margin-top:2px;
+      margin-left:310px;
+  }
+
+  .driving-one{
+    width:820px;
+  }
+
+}
+
+@media (min-width:768px) and (max-width:1024px){
+
+  .driving-two{
+    width:768px;
+  }
+
+  .map-heading{
+   color:yellow;
+   margin-left:260px;
+   font-size:25px;
+  }
+
+  .driving-input{
+      margin-top:2px;
+      margin-left:310px;
+  }
+
+  .driving-one{
+    width:768px;
+  }
+
+}
+
+@media (min-width:912px) and (max-width:1368px){
+
+  .driving-two{
+    width:915px;
+  }
+
+  .map-heading{
+   color:yellow;
+   margin-left:300px;
+   font-size:25px;
+  }
+
+  .driving-input{
+      margin-top:2px;
+      margin-left:350px;
+  }
+
+  .driving-one{
+    width:915px;
+  }
+
+}
+
+@media (min-width:280px) and (max-width:653px){
+
+  .driving-two{
+    width:915px;
+  }
+
+  .map-heading{
+   color:yellow;
+   margin-left:300px;
+   font-size:25px;
+  }
+
+  .driving-input{
+      margin-top:2px;
+      margin-left:350px;
+  }
+
+  .driving-one{
+    width:915px;
+  }
+
+}

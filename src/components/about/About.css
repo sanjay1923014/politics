@@ -1,0 +1,257 @@
+.about-about{
+    width:90%;
+    height:687px;
+    /* border:1px solid green; */
+    display:flex;
+}
+
+.about-one{
+    width:50%;
+    height:auto;
+    /* border:1px solid blue; */
+    background-image:url('../../assets/image9.jpeg');
+    background-size: cover;
+}
+
+.about-two{
+    width:50%;
+    height:auto;
+    /* border:1px solid goldenrod; */
+    background-image:url('../../assets/image8.jpeg');
+}
+
+
+
+.about-one-btn{
+    margin-top:400px;
+    margin-left:170px;
+    background-color:#FF8000;
+    height:40px;
+    width:160px;
+    font-size:18px;
+    font-weight:700;
+    border:1px solid orange;
+    border-radius:3px;
+    cursor:pointer;
+}
+
+
+
+@media (min-width:414px) and (max-width:896px){
+ 
+
+    .about-about{
+        width:564px;
+        /* height:400px; */
+    }
+
+    .about-one{
+        display:none;
+    }
+
+    .about-two{
+        background-color:#05092A;
+        width:100%;
+        background-image: url('');
+    }
+ 
+    .iframe{
+    margin-left:140px;
+    height:300px;
+    width:450px;
+    }
+
+    .about-one-btn{
+     background-color:rgb(228, 82, 82);
+     color:white;
+     margin-top:60px;
+     margin-left:280px;
+    }
+
+}
+
+@media (min-width:375px) and (max-width:667px){
+
+    .about-about{
+        width:567px;
+    }
+
+    .about-one{
+        display:none;
+    }
+
+    .about-two{
+        background-color:#05092A;
+        width:100%;
+        background-image: url('');
+    }
+ 
+    .iframe{
+    margin-left:140px;
+    height:300px;
+    width:450px;
+    }
+
+    .about-one-btn{
+     background-color:rgb(228, 82, 82);
+     color:white;
+     margin-top:60px;
+     margin-left:280px;
+    }
+
+}
+
+@media (min-width:360px) and (max-width:740px){
+
+    .about-about{
+        width:569px;
+    }
+
+    .about-one{
+        display:none;
+    }
+
+    .about-two{
+        background-color:#05092A;
+        width:100%;
+        background-image: url('');
+    }
+ 
+    .iframe{
+    margin-left:140px;
+    height:300px;
+    width:450px;
+    }
+
+    .about-one-btn{
+     background-color:rgb(228, 82, 82);
+     color:white;
+     margin-top:60px;
+     margin-left:280px;
+    }
+
+}
+
+@media (min-width:820px) and (max-width:1180px){
+
+    .about-about{
+        width:820px;
+    }
+
+    .about-one{
+        display:none;
+    }
+
+    .about-two{
+        background-color:#05092A;
+        width:100%;
+        background-image: url('');
+    }
+ 
+    .iframe{
+    margin-left:290px;
+    height:300px;
+    width:450px;
+    }
+
+    .about-one-btn{
+     background-color:rgb(228, 82, 82);
+     color:white;
+     margin-top:60px;
+     margin-left:430px;
+    }
+
+}
+
+@media (min-width:768px) and (max-width:1024px){
+
+    .about-about{
+        width:768px;
+    }
+
+    .about-one{
+        display:none;
+    }
+
+    .about-two{
+        background-color:#05092A;
+        width:100%;
+        background-image: url('');
+    }
+ 
+    .iframe{
+    margin-left:260px;
+    height:300px;
+    width:450px;
+    }
+
+    .about-one-btn{
+     background-color:rgb(228, 82, 82);
+     color:white;
+     margin-top:60px;
+     margin-left:400px;
+    }
+
+}
+
+@media (min-width:912px) and (max-width:1368px){
+
+    .about-about{
+        width:917px;
+    }
+
+    .about-one{
+        display:none;
+    }
+
+    .about-two{
+        background-color:#05092A;
+        width:100%;
+        background-image: url('');
+    }
+ 
+    .iframe{
+    margin-left:310px;
+    height:300px;
+    width:450px;
+    }
+
+    .about-one-btn{
+     background-color:rgb(228, 82, 82);
+     color:white;
+     margin-top:60px;
+     margin-left:470px;
+    } 
+
+}
+
+@media (min-width:280px) and (max-width:653px){
+
+    .about-about{
+        width:917px;
+    }
+
+    .about-one{
+        display:none;
+    }
+
+    .about-two{
+        background-color:#05092A;
+        width:100%;
+        background-image: url('');
+    }
+ 
+    .iframe{
+    margin-left:310px;
+    height:300px;
+    width:450px;
+    }
+
+    .about-one-btn{
+     background-color:rgb(228, 82, 82);
+     color:white;
+     margin-top:60px;
+     margin-left:470px;
+    } 
+
+}

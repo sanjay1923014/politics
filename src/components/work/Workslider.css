@@ -1,0 +1,75 @@
+.workslider-one{
+    border:1px solid rgb(26, 23, 23);
+    height:660px;
+    width:200px;
+    border-radius:2px;
+    
+}
+
+#first{
+    background-image:url('../../assets/work1.jpeg');
+    background-position-y:-250px;
+    background-position-x: center;
+}
+
+#second{
+    background-image:url('../../assets/work2.jpeg');
+    background-position-y:-100px;
+    background-position-x:-160px;
+}
+
+#third{
+    background-image:url('../../assets/work3.jpg');
+}
+
+#fourth{
+    background-image:url('../../assets/work4.jpeg');
+    background-position-x:-120px;
+    background-position-y:-180px;
+}
+
+#fifth{
+    background-image:url('../../assets/work5.jpg');
+    background-position-y:-300px;
+}
+
+#sixth{
+    background-image:url('../../assets/work6.jpeg');
+    background-size: cover;
+}
+
+.work-margin{
+    margin-left:80px;
+    margin-top:20px;
+    margin-right:80px;
+    background-color: black;
+}
+
+@media(min-width:414px) and (max-width:896px){
+
+    .work-margin{
+     width:80%;
+     height:300px;
+     margin-left:55px;
+    }
+
+    
+}
+
+@media (min-width:820px) and (max-width:1180px){
+
+.work-margin{
+   margin-left:85px;
+   
+}
+
+}
+
+@media (min-width:768px) and (max-width:1024px){
+
+    .work-margin{
+        margin-left:74px;
+        
+     }
+
+}

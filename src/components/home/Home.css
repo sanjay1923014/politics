@@ -1,0 +1,48 @@
+.home-home{
+    width:90%;
+    height:685px;
+}
+#big-cont{
+    display: none;
+}
+
+@media(min-width:414px) and (max-width:896px){
+    
+   .home-home{
+    display:none;
+   }
+
+}
+
+@media (min-width:375px) and (max-width:667px){
+
+    .home-home{
+        display:none;
+       }
+
+}
+
+@media (min-width:360px) and (max-width:740px){
+
+    .home-home{
+        display:none;
+       }
+
+}
+
+@media (min-width:912px) and (max-width:1368px){
+
+
+    .home-home{
+        display:none;
+       }
+
+}
+
+@media (min-width:280px) and (max-width:653px){
+
+    .home-home{
+        display:none;
+       }
+
+}

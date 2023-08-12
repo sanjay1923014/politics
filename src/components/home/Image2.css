@@ -1,0 +1,62 @@
+.second-parent{
+    display:flex;
+    flex-direction:row;
+    width:100%;
+    height:687px;
+   flex:9;
+}
+ 
+.child1{
+    
+    width:20%;
+    padding-left:1px;
+}
+
+
+
+#parent-one{
+    background-image:url('../../assets/image6.jpg');
+}
+
+#parent-one:hover{
+    background-size:cover;
+    width:100%;
+}
+
+#parent-two{
+      background-image:url('../../assets/image7.jpg') 
+}
+
+#parent-two:hover{
+    background-size:cover;
+    width:100%;
+}
+
+#parent-three{
+     background-image:url('../../assets/image8.jpeg');  
+}
+
+#parent-three:hover{
+    background-size:cover;
+    width:100%;
+}
+
+#parent-four{
+ background-image:url('../../assets/image9.jpeg') 
+}
+
+#parent-four:hover{
+background-size:cover;
+width:100%
+}
+
+#parent-five{
+     background-image:url('../../assets/image10.jpeg') 
+}
+
+#parent-five:hover{
+    background-size:cover;
+    width:100%;
+}
+
+
